@@ -1,0 +1,12 @@
+# 실행 파일
+*.exe
+*.out
+*.o
+*.obj
+
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+*.user
